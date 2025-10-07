@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskSolving", "TaskSolving\TaskSolving.csproj", "{5B4DC0C9-463A-43DC-B163-1A0019A74E85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Sales Database", "2. Sales Database\2. Sales Database.csproj", "{375E0485-E01F-40E4-998F-874E655724D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B4DC0C9-463A-43DC-B163-1A0019A74E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B4DC0C9-463A-43DC-B163-1A0019A74E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B4DC0C9-463A-43DC-B163-1A0019A74E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B4DC0C9-463A-43DC-B163-1A0019A74E85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{375E0485-E01F-40E4-998F-874E655724D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{375E0485-E01F-40E4-998F-874E655724D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{375E0485-E01F-40E4-998F-874E655724D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{375E0485-E01F-40E4-998F-874E655724D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5788A9BF-4A54-45EC-814A-08EA2FD7DC5A}
+	EndGlobalSection
+EndGlobal
